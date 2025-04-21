@@ -16,8 +16,8 @@ setup(
     packages=find_packages(),
     url='https://github.com/ucla-mobility/OpenCDA.git',
     license='MIT',
-    author='Runsheng Xu, Xu Han',
-    author_email='rxx3386@ucla.edu',
+    author='Runsheng Xu, Xu Han, Shrey',
+    author_email='shrey@ucla.edu',
     description='A framework for fast developing cooperative driving automation and autonomous '
                 'vehicle modules in multi-resolution simulation environment"',
     long_description=open("README.md").read(),
