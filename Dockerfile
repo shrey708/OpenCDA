@@ -106,7 +106,7 @@ RUN set -xue && apt-key del 7fa2af80 \
 && apt-get install -y build-essential cmake debhelper git wget xdg-user-dirs xserver-xorg libvulkan1 libsdl2-2.0-0 \
 libsm6 libgl1-mesa-glx libomp5 pip unzip libjpeg8 libtiff5 software-properties-common nano fontconfig
 
-# Install CARLA and its additional maps.
+# Install CARLA and its additional maps
 
 RUN mkdir carla
 
