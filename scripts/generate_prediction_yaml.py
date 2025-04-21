@@ -4,8 +4,8 @@
 for each vehicle
 """
 
-# Author: Runsheng Xu <rxx3386@ucla.edu>
-# License: TDG-Attribution-NonCommercial-NoDistrib
+
+
 
 import os
 import concurrent
